@@ -15,10 +15,10 @@ Translated Sentence: #1987-06-24% ✔
 
 
 ### Attention:
-Original Sentence: hello i born the 29 of june of the year 1996.
+Original Sentence: born John Winston Lennon; thursday 9 of oct 1954) was an English singer, songwriter, musician and peace activist who achieved worldwide fame as founder, co-songwriter, co-lead vocalist and rhythm guitarist of the Beatles.
 
-Translated Sentence: #1996-06-29% ✔
+Translated Sentence: #1954-10-09% ✔
 
-![image](https://github.com/FelipeAce96/Dates-Translation-Transformer/assets/53706252/970ed92f-0e5a-4025-ae6e-34aaf39aa555)
+![image](https://github.com/FelipeAce96/Dates-Translation-Transformer/assets/53706252/e85fc8ad-8063-4350-92ff-7fe849418083)
 
 
